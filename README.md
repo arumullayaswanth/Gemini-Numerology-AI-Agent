@@ -1,5 +1,16 @@
 # 🔮 Gemini Numerology AI Assistant
 
+<table>
+  <tr>
+    <td align="center" style="background-color:#f0f8ff; padding:10px;">
+      <img src="https://github.com/arumullayaswanth/Gemini-Numerology-AI-Agent/blob/7a27594ab2cfa11a1826b9ae2b409f39436015a5/architecture%20images.png" width="90%">
+      <br><b style="color:#1f75fe;">🔵 Google Gemini AI Automation Project using n8n (AI Studio)</b>
+    </td>
+  </tr>
+</table>
+
+
+
 ## 🤖 Google Gemini AI Automation Project using n8n (AI Studio)
 
 ## ✅ Step 0: Get Gemini API Key
